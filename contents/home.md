@@ -10,7 +10,7 @@ Email: dc22886@um.edu.mo
 
 #### Education
 B.Sc.in Electrical and Computer Engineering, University of Macau, 2022—2026.\
-Exchange Programme in Electrical Engineering, City University of Hong Kong, Jan 2024—May 2025.
+Exchange Programme in Electrical Engineering, City University of Hong Kong, Jan 2024—May 2024.
 
 #### Research Interests
 Analog and Mixed-Signal IC Design,\
