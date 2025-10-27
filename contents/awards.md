@@ -1,16 +1,10 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Deans Honor List, All semesters.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Outgoing Exchange Scholarship, School-level, 2024/2025.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2024.
+- Lisboa Holding Scholarship <strong>(Top 3%)</strong>, School-level, 2023-2024.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023.
+- Silver Medal in the iGEM (International Genetically Engineered Machine Competition) Competition (Wiki Design Team, University representative), 2023.
 
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Whole Person Development Award, School-level, 2023/2024 & 2024/2025.

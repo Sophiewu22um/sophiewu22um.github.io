@@ -1,17 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Sophiewu22um](https://img.shields.io/badge/Sophiewu22um-github-blue?logo=github)](https://github.com/sophiewu22um)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+She is currently a Year 4 student in the Department of Electrical and Computer Engineering (ECE) at University of Macau.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: dc22886@um.edu.mo
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.Sc.in Electrical and Computer Engineering, University of Macau, 2022—2026.\
+Exchange Programme in Electrical Engineering, City University of Hong Kong, Jan 2024—May 2025.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Analog and Mixed-Signal IC Design,\
+Bio-Sensor Interfaces and Biopotential Amplifiers,\
+MEMS-based Energy Harvesting and Self-Powered Sensors.
