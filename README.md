@@ -1,19 +1,19 @@
 
 
-![Github Forks](https://img.shields.io/github/forks/senli1073/senli1073.github.io?style=flat)
-![Github Stars](https://img.shields.io/github/stars/senli1073/senli1073.github.io?style=flat)
-![License](https://img.shields.io/github/license/senli1073/senli1073.github.io)
-![Last Commit](https://img.shields.io/github/last-commit/senli1073/senli1073.github.io)
+![Github Forks](https://img.shields.io/github/forks/senli1073/academic-homepage-template?style=flat)
+![Github Stars](https://img.shields.io/github/stars/senli1073/academic-homepage-template?style=flat)
+![License](https://img.shields.io/github/license/senli1073/academic-homepage-template)
+![Last Commit](https://img.shields.io/github/last-commit/senli1073/academic-homepage-template)
 
 # A simple Github Pages template for personal academic websites.
 
 ## Preview
-[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/senli1073.github.io/main/screenshot_full.png)](https://senli1073.github.io/)
+[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/academic-homepage-template/main/screenshot_full.png)](https://senli1073.github.io/)
 
 
 ## Introduction
 
-This personal academic website template is based on [bootstrap](https://github.com/StartBootstrap/startbootstrap-new-age).
+This personal academic website template is based on [startbootstrap](https://github.com/StartBootstrap/startbootstrap-new-age).
 
 The template is designed to integrate Markdown files as content input.  There's no need to compile the webpage before deployment.  Upon loading, the Markdown files are automatically parsed and embedded into the page.
 
@@ -57,13 +57,20 @@ git commit -am 'init'
 git push
 ```
 
+### 3. Setup
+(1) Under your repository name, click `Settings`.
 
-### 3. Enjoy
+(2) In the "Code and automation" section of the sidebar, click `Pages`.
+
+(3) Under "Build and deployment", under "Source", select Deploy from a branch. Then, use the branch dropdown menu and select a publishing source.
+
+### 4. Enjoy
 
 Fire up a browser and go to `https://<username>.github.io`
 
+> Note that it can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub.
 
 
 ## License
 
-Copyright Sen Li, 2023. Licensed under an MIT license. You can copy and mess with this template.
+Copyright Sen Li, 2023-2025. Licensed under an MIT license. You can copy and mess with this template.
