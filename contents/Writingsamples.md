@@ -5,7 +5,7 @@ This project presents a smart home automation system that integrates Raspberry P
 - [LNA Design](static/assets/pdf/ECEN3019.pdf)\
 This report details the design and simulation of a low-noise amplifier (LNA) with gain switching in Cadence, focusing on input/output matching, noise figure, linearity, and power consumption trade-offs.
 
-- <strong>[Fully Differential Two-Stage Miller Op-Amp Design](static/assets/pdf/ECEN3017.pdf)</strong>\
+- [Fully Differential Two-Stage Miller Op-Amp Design](static/assets/pdf/ECEN3017.pdf)\
 This project involves the design of a fully differential two-stage operational amplifier with Miller compensation and common-mode feedback, achieving high gain, wide bandwidth, and low distortion in 55nm CMOS technology.
 
 - [BME Labs](static/assets/pdf/ECEN3003.pdf)\
